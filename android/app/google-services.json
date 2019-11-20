@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "409438820134",
+    "firebase_url": "https://aplicativopoupepila.firebaseio.com",
+    "project_id": "aplicativopoupepila",
+    "storage_bucket": "aplicativopoupepila.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409438820134:android:850b38ebc1d223513113e7",
+        "android_client_info": {
+          "package_name": "com.example.poupe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409438820134-jh01mc5t0ln54m9i3nck20jhfjpg6acs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRPgkGCE-QhfRyfAJOU7yGOPiUJOoeMik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409438820134-jh01mc5t0ln54m9i3nck20jhfjpg6acs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

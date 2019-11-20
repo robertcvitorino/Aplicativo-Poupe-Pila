@@ -4,6 +4,9 @@ description: A new Flutter project.
 environment: 
   sdk: '>=2.1.0 <3.0.0'
 dependencies: 
+  get: ^1.3.0
+  google_sign_in: ^3.2.4
+  firebase_auth: ^0.6.6
   font_awesome_flutter: ^8.5.0
   bloc: ^2.0.0
   flutter_bloc: ^2.0.0
@@ -21,3 +24,4 @@ flutter:
 
   assets:
     - assets/image/logo-poupe.png
+    - assets/image/barcode.png
